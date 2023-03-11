@@ -10,4 +10,4 @@ This is a Text Editor that is designed to be a Progressive Web Application. It i
 
 ## Link to deployed application:
 
-[JATE Link](https://madalynmm.github.io/module-3-challenge/)
+[JATE Link](https://nameless-everglades-88918.herokuapp.com/)
