@@ -6,7 +6,7 @@ This is a Text Editor that is designed to be a Progressive Web Application. It i
 
 ## Screenshot:
 
-![Text Editor Screenshot.](./Develop/client/src/images/Screen%20Shot%202023-03-10%20at%2011.25.02%20PM.png)
+![Text Editor Screenshot.](./client/src/images/Screen%20Shot%202023-03-10%20at%2011.25.02%20PM.png)
 
 ## Link to deployed application:
 
