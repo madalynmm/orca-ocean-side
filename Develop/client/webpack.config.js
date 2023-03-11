@@ -30,7 +30,7 @@ module.exports = () => {
         fingerprints: false,
         inject: true,
         name: 'PWA Text Editor',
-        short_name: 'Text',
+        short_name: 'JATE',
         description: 'I am sure we need another text editor',
         background_color: '#225ca3',
         theme_color: '#225ca3',
